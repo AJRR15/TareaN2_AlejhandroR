@@ -11,7 +11,7 @@
     <groupId>com.hola</groupId>
     <artifactId>hola</artifactId>
     <version>1</version>
-    <name>EJemplo</name>
+    <name>TareaN2AlejhandroRivero</name>
     <description>Proyecto tienda de martes noche 2023 IIIC</description>
     <properties>
         <java.version>19</java.version>
